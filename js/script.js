@@ -35,4 +35,5 @@ function changeImage2() {
 
 // Panggil fungsi changeImage untuk mengubah gambar setiap beberapa detik
 setInterval(changeImage1, 5000); // Ubah gambar pada kartu pertama setiap 3 detik (3000 milidetik)
+
 setInterval(changeImage2, 7000); // Ubah gambar pada kartu kedua setiap 4 detik (4000 milidetik)

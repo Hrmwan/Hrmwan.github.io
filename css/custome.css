@@ -5,12 +5,16 @@
 .jumbotron {
   padding-top: 100px;
   padding-bottom: 75px;
-  background-image: url();
+  background-color: aquamarine;
   /* height: 58px; */
 }
 
 .jumbotron a i {
   margin: 0 8px;
+}
+
+.text{
+  text-align: justify;
 }
 
 /* about */
