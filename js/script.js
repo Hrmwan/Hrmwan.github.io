@@ -9,9 +9,9 @@ var imageList1 = ["img/antrol2.PNG", "img/antrol3.PNG", "img/antrol1.PNG"];
 
 // Mendefinisikan daftar gambar untuk kartu kedua
 var imageList2 = [
-  "img/lks/login.JPG",
-  "img/lks/enkripsi.JPG",
-  "img/lks/dekripsi.JPG",
+  "img/lks/login.jpg",
+  "img/lks/enkripsi.jpg",
+  "img/lks/dekripsi.jpg",
 ];
 
 // Inisialisasi indeks gambar untuk kartu pertama
